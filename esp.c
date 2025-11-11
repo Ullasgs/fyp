@@ -7,11 +7,11 @@
 // =========================
 
 // Wi-Fi credentials
-const char* ssid = "TP-Link_267A";
-const char* password = "71944852";
+const char* ssid = "Phone";
+const char* password = "ullasgss";
 
 // MQTT credentials
-const char* mqtt_server = "192.168.1.102"; // Replace with your Raspberry Pi IP address
+const char* mqtt_server = "172.20.10.10"; // Replace with your Raspberry Pi IP address
 const int mqtt_port = 1883;  // Default MQTT port
 
 // MQTT client
