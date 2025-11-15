@@ -1,8 +1,3 @@
-/*
-  esp32.ino
-  Simulated TDS (700-900 ppm), smooth transitions, publishes to MQTT and serves /data over HTTP.
-  Includes simple relay control endpoints /relay/on and /relay/off.
-*/
 
 #include <WiFi.h>
 #include <WebServer.h>
